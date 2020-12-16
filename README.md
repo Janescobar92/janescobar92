@@ -12,8 +12,8 @@ I’m a junior web developer interested in personal and professional growth so I
 ## Contact me through:
 
 <a href="mailto:infojanescobar@gmail.com.com"><img align="left" alt="Email" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/3349/3349258.svg" /></a>
-<a href="https://www.linkedin.com/in/jan-escobar-rivera/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a> 
-<a href="https://www.instagram.com/interpoleer/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/174/174855.svg" /></a>  
+<a href="https://www.linkedin.com/in/jan-escobar-rivera/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>
+<a href="https://www.instagram.com/interpoleer/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/174/174855.svg" /></a>
 <a href="https://twitter.com/JanEscobar92"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" /></a>  
 
 <br />
