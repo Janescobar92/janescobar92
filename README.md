@@ -1,4 +1,4 @@
-<h1> Konnichiwa partner, what’s crackin’? 🐱‍👤. </h1>
+<h1> Konnichiwa partner, what’s crackin’? </h1>
 
 My name is Jan Escobar and I welcome you to my GitHub profile.
 
