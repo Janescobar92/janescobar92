@@ -13,5 +13,5 @@ I’m a web developer interested in personal and professional growth so I’m al
 
 <a href="mailto:infojanescobar@gmail.com.com">Mail</a>
 <a href="https://www.linkedin.com/in/jan-escobar-rivera/">Linkedin</a>
-<a href="https://www.instagram.com/interpoleer/">Instagram/a>
+<a href="https://www.instagram.com/interpoleer/">Instagram</a>
 <a href="https://twitter.com/JanEscobar92">Twitter</a>  
