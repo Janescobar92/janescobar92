@@ -5,7 +5,7 @@ My name is Jan Escobar and I welcome you to my GitHub profile.
 I’m proud of being a code freak always looking for new challenges and projects, so if you have a new one feel free contact me any way you like.
 Currently living in Madrid, Spain and who knows where the wind will blow, but remember the magic of the internet connect us all.
 
-I’m a junior web developer interested in personal and professional growth so I’m always open to new knowledge.
+I’m a web developer interested in personal and professional growth so I’m always open to new knowledge.
 
 ⚡ More about me: I’m a fitness and animals lover. 
 
